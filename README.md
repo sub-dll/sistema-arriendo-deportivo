@@ -95,7 +95,7 @@ Adicionalmente se verificó el rechazo de fechas de término anteriores a la fec
 ![Pestaña Equipos](capturas/Equipo.png)
 
 ### Gestión de Arriendos y Devoluciones
-![Pestaña Arriendos](capturas/Arriendo y Devoluciones.png)
+![Pestaña Arriendos](capturas/Arriendo-y-Devoluciones.png)
 
 ### Gráficos Matplotlib incrustados
 ![Pestaña Gráficos](capturas/Graficos.png)
