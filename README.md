@@ -54,6 +54,8 @@ Para diferenciar la clasificaci√≥n comercial (`Categoria`) del comportamiento t√
 2. **Crear y activar un entorno virtual:**
    ```bash
    python -m venv venv
+   ```
+   ```bash
    .\venv\Scripts\activate
    ```
    *(En Linux/macOS: `source venv/bin/activate`)*
