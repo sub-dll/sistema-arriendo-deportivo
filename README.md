@@ -46,6 +46,8 @@ Para diferenciar la clasificaci√≥n comercial (`Categoria`) del comportamiento t√
 1. **Clonar el repositorio y entrar a la carpeta:**
    ```bash
    git clone https://github.com/sub-dll/sistema-arriendo-deportivo
+   ```
+   ```bash
    cd sistema-arriendo-deportivo
    ```
 
