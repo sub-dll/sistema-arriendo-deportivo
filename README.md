@@ -44,34 +44,34 @@ Para diferenciar la clasificación comercial (`Categoria`) del comportamiento t�
 ## Instalación y ejecución
 
 1. **Clonar el repositorio y entrar a la carpeta:**
-   
+   ```bash
    git clone https://github.com/sub-dll/sistema-arriendo-deportivo
    cd sistema-arriendo-deportivo
-   
+   ```
 
 2. **Crear y activar un entorno virtual:**
-   
+   ```bash
    python -m venv venv
    .\venv\Scripts\activate
-   
+   ```
    *(En Linux/macOS: `source venv/bin/activate`)*
 
 3. **Instalar dependencias:**
-   
+   ```bash
    pip install -r requirements.txt
-   
+   ```
 
 
 4. **Generar base de datos de ejemplo (opcional, deja ver los graficos de inmediato pero si quiere ver como se crean uno por uno primero, abra sin bd):**
-   
+   ```bash
    python seed.py
-  
+   ```
 
 
 5. **Ejecutar la aplicación:**
-
+   ```bash
    python main.py
-   
+   ```
 
 
 
